@@ -1,0 +1,3 @@
+// the configured options and settings for this application
+#define Learning_cmake_VERSION_MAJOR @Learning_cmake_VERSION_MAJOR@
+#define Learning_cmake_VERSION_MINOR @Learning_cmake_VERSION_MINOR@
