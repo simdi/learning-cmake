@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 3.15)
 
+# Set the cxx standard
+set(CMAKE_CXX_STANDARD 17)
+# set(CMAKE_CXX_STANDARD_REQUIRED True)
+
 # Set the project name
 project(Learning_cmake VERSION 1.0)
 
